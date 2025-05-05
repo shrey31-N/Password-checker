@@ -1,0 +1,12 @@
+----------INSTRUCTIONS----------
+
+* Your Password Should be length of 7 or more Charactor,
+* It should contain at least one number, 
+* One capital letter and one small letter
+
+Enter your password: Shreyas
+your password is checked as Week.
+* Please read the instruction carefully and try again
+
+Enter your password again: Shreyas32
+your password is checked as Strong.
