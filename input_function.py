@@ -4,7 +4,8 @@ import Password_checker_function
 print("\n----------INSTRUCTIONS----------\n")
 print("* Your Password Should be length of 7 or more Charactor,"
       "\n* It should contain at least one number, "
-      "\n* One capital letter and one small letter\n")
+      "\n* One capital letter and one small letter.
+      "\n* It should contain at least one special character.\n")
 user_input = input("Enter your password: ")
 check = Password_checker_function.password_checker(user_input)
 
