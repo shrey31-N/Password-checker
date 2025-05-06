@@ -9,7 +9,7 @@ print("* Your Password Should be length of 7 or more Charactor,"
 user_input = input("Enter your password: ")
 check = Password_checker_function.password_checker(user_input)
 
-if check == "Week":
+if check == "Weak":
     print(f"your password is checked as {check}.")
     while True:
         print("* Please read the instruction carefully and try again\n")
