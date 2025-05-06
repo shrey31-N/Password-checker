@@ -28,4 +28,4 @@ def password_checker(password):
     if all(result.values()) == True:
         return "Strong"
     else:
-        return "Week"
+        return "Weak"
